@@ -1,0 +1,10 @@
+C:\Users\danci\Desktop\DiningPage\bin\Debug\DiningPage.exe.config
+C:\Users\danci\Desktop\DiningPage\bin\Debug\DiningPage.exe
+C:\Users\danci\Desktop\DiningPage\bin\Debug\DiningPage.pdb
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.csprojAssemblyReference.cache
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.diningForm.resources
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.Properties.Resources.resources
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.csproj.GenerateResource.cache
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.csproj.CoreCompileInputs.cache
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.exe
+C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.pdb
