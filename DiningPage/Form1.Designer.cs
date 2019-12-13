@@ -34,6 +34,7 @@
             this.diningLabel = new System.Windows.Forms.Label();
             this.tigerLabel = new System.Windows.Forms.Label();
             this.swipeLabel = new System.Windows.Forms.Label();
+            this.exchangeLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // exitButton
@@ -101,12 +102,23 @@
             this.swipeLabel.Text = "n Swipes Remaining";
             this.swipeLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // exchangeLabel
+            // 
+            this.exchangeLabel.AutoSize = true;
+            this.exchangeLabel.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.exchangeLabel.Location = new System.Drawing.Point(75, 264);
+            this.exchangeLabel.Name = "exchangeLabel";
+            this.exchangeLabel.Size = new System.Drawing.Size(181, 20);
+            this.exchangeLabel.TabIndex = 6;
+            this.exchangeLabel.Text = "n Exchanges Remaining";
+            // 
             // diningForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(348, 354);
             this.ControlBox = false;
+            this.Controls.Add(this.exchangeLabel);
             this.Controls.Add(this.swipeLabel);
             this.Controls.Add(this.tigerLabel);
             this.Controls.Add(this.diningLabel);
@@ -128,6 +140,7 @@
         private System.Windows.Forms.Label diningLabel;
         private System.Windows.Forms.Label tigerLabel;
         private System.Windows.Forms.Label swipeLabel;
+        private System.Windows.Forms.Label exchangeLabel;
     }
 }
 

@@ -10,35 +10,16 @@ using System.Windows.Forms;
 
 namespace DiningPage
 {
-    public partial class diningForm : Form
+    public partial class diningForm : Form //this code has been fully integrated into the main form - this external form is currently obsolete.
     {
-        public class Student
-        {
-            public double dining;
-            public double tiger;
-            public int swipes;
-            public Student(double dD, double tB, int nS = -1)
-            {
-                dining = dD;
-                tiger = tB;
-                swipes = nS;
-            }
-        }
-        public diningForm()
+        
+        public diningForm(double dining, double tiger, int swipes, int exchanges)
         {
             InitializeComponent();
-            Student student = new Student(3300.45, 250.00, 5); //this will probably be re-implemented with a call to the database.
-            diningLabel.Text = student.dining.ToString("C");
-            tigerLabel.Text = student.tiger.ToString("C");
-            if (student.swipes >= 0)
-            {
-                swipeLabel.Text = $"{student.swipes.ToString()} Swipes Remaining";
-                swipeLabel.Visible = true;
-            }
-            else
-            {
-                swipeLabel.Visible = false;
-            }
+            diningLabel.Text = dining.ToString("C");
+            tigerLabel.Text = tiger.ToString("C");
+            swipeLabel.Text = $"{swipes.ToString()} Swipes Remaining";
+            exchangeLabel.Text = $"{exchanges.ToString()} Exchanges Remaining";
         }
 
         private void ExitButton_Click(object sender, EventArgs e)

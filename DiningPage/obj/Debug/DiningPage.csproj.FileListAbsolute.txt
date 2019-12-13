@@ -8,3 +8,13 @@ C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.csproj.GenerateResource.c
 C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.csproj.CoreCompileInputs.cache
 C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.exe
 C:\Users\danci\Desktop\DiningPage\obj\Debug\DiningPage.pdb
+G:\Shared drives\IGME201\DiningPage\bin\Debug\DiningPage.pdb
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.csprojAssemblyReference.cache
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.diningForm.resources
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.Properties.Resources.resources
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.csproj.GenerateResource.cache
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.csproj.CoreCompileInputs.cache
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.pdb
+G:\Shared drives\IGME201\DiningPage\bin\Debug\DiningPage.dll.config
+G:\Shared drives\IGME201\DiningPage\bin\Debug\DiningPage.dll
+G:\Shared drives\IGME201\DiningPage\obj\Debug\DiningPage.dll
